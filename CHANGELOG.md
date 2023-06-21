@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.8](https://github.com/on-clouds/environment-readiness-service/compare/v0.0.7...v0.0.8) (2023-06-21)
+
+
+### Other
+
+* **deps:** update anchore/sbom-action action to v0.14.3 ([960243b](https://github.com/on-clouds/environment-readiness-service/commit/960243b52e4ad6672268c65cd5eb2bae98d53490))
+
 ## [0.0.7](https://github.com/on-clouds/environment-readiness-service/compare/v0.0.6...v0.0.7) (2023-05-24)
 
 
